@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1425"/><stop offset="1" stop-color="#162f43"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#62cad2" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/><rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<path d="M54 66H102M54 66V114M1146 274H1098M1146 274V226" fill="none" stroke="#5eead4" stroke-width="3"/>
+<text x="86" y="105" font-family="monospace" font-size="17" letter-spacing="3" fill="#5eead4">PABLOELIQUE / DESARROLLO DE SOFTWARE</text>
+<text x="82" y="179" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#f3f7fc">Pablo Jiménez Jorquera</text>
+<text x="86" y="230" font-family="Arial, sans-serif" font-size="25" fill="#a9bdce">De la idea a la aplicación.</text>
+<text x="86" y="276" font-family="monospace" font-size="16" fill="#71d8cb">JAVA + WEB + DATOS</text>
+<g transform="translate(994 118)" fill="none" stroke="#5eead4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="m0 10-30 35 30 35m70-70 30 35-30 35m-25-88-25 105"/></g>
+</svg>
