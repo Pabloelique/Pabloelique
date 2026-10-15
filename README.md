@@ -4,7 +4,7 @@
 
 **Estudiante de 2.º DAM · Murcia · Busco prácticas en desarrollo de software**
 
-[Portfolio](https://pabloelique.github.io/portfolio/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/pablo-jimenez-jorquera-38b219309/) &nbsp; / &nbsp; [Contacto](mailto:pablojimenezjo2005@gmail.com)
+[Portfolio](https://pabloelique.github.io/portfolio/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/pablo-jim%C3%A9nez-jorquera-38b219309/) &nbsp; / &nbsp; [Contacto](mailto:pablojimenezjo2005@gmail.com)
 
 </div>
 
