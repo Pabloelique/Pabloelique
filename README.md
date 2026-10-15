@@ -28,6 +28,7 @@ Participo en frontend, backend y base de datos. He trabajado en la gestión de u
 
 | Proyecto | Lo que construimos | Explorar |
 | :--- | :--- | :--- |
+| **Clínica Miguel Marín** | Creación de la web de la clínica con **WordPress** y alojamiento en **Hostinger**. | [Visitar web](https://clinicamiguelmarin.com/) |
 | **Garash Studio JF** | Aplicación de escritorio para gestionar clientes, empleados, citas, productos y facturación de una peluquería. **Java · JavaFX · FXML** | [Repositorio](https://github.com/Pabloelique/JFGARASHSTUDIO) |
 | **El Profesor Python — escritorio** | Aventura gráfica de misterio, escenas y acertijos. Proyecto junto a Ayoub Atidi Belbaz. **Java 21 · Swing · AWT · Maven** | [Código](https://github.com/Ayoxb1/Aventura-Grafica-Profesor-Python) |
 | **El Profesor Python — online** | Adaptación al navegador con cuaderno de pistas, escenas interactivas y audio. **React · Next.js · TypeScript** | [Código](https://github.com/Ayoxb1/Profesor-Python-Online) / [Jugar](https://profesor-python.vercel.app) |
@@ -41,7 +42,7 @@ Participo en frontend, backend y base de datos. He trabajado en la gestión de u
 | Desarrollo web | HTML, CSS, JavaScript; Angular, Node.js y Express en VoltaERP |
 | Datos | SQL, PostgreSQL, Sequelize, MongoDB, XML, XPath, XQuery |
 | Trabajo en equipo | Git, GitHub, Jira, revisión de código, UML |
-| Otros entornos | Conocimientos de Linux, Docker y WordPress |
+| Otros entornos | WordPress y Hostinger en clinicamiguelmarin.com; conocimientos de Linux y Docker |
 
 ## `05` Más allá del código
 
